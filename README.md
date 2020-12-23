@@ -19,3 +19,6 @@ This project aims to help banks identify the right audience who are most likely 
 * Classification tree
 * Bagging
 * Random Forest
+
+### Model Evaluation Methods
+* Confusion matrix: the recall and accuracy rate of each model are calculated
