@@ -1,19 +1,19 @@
 ## Project Objective
-The purpose of this project is to identify customer segments that are most likely to subscribe to a term deposit. The insights are useful for developing suitable marketing strategies to target the customers and increase their likelihood to open a term deposit account.
+This project aims to identify customer segments most likely to subscribe to a term deposit. The insights help banks design effective marketing strategies to increase subscription rates.
 
 
 ## Project Description
 
 ### What is a term deposit?
-A term deposit is a fixed-term investment at banks where money would be locked up for a period of time and customers can withdraw their funds after the term ends. Common ways that banks can benefit from the money that customers place in a term deposit are investing in other financial products that pay a higher rate of return, or lending the money to other clients and receiving a higher interest rate. 
+A term deposit is a fixed-term investment where funds are locked for a set period and can only be withdrawn once the term ends. Banks typically use these deposits to generate profit by investing in higher-yield financial products or lending the funds at higher interest rates.
 
 ### Overview
-This project aims to help banks identify the right audience who are most likely to subscribe to a term deposit so that they could develop suitable marketing strategies. Multiple statistical models were developed to find the optimal model that can best predict whether a customer will subscribe to a term deposit. The insights will answer these 3 questions:
-  1. Which variables impact customers’ decisions to subscribe to a term deposit? 
-  2. Which customer segments are most likely to subscribe to a term deposit? 
-  3. How can banks improve their future marketing campaigns?
+The goal is to build predictive models that help banks target the right audience for term deposit subscriptions. The analysis focuses on answering three key questions:
+  1. Which variables impact customers’ decisions to subscribe? 
+  2. Which customer segments show the highest likelihood of subscribing? 
+  3. How can banks refine their marketing campaigns using these insights?
   
-  
+
 ### Models Developed
 * Logistic Regression
 * Classification tree
@@ -21,4 +21,4 @@ This project aims to help banks identify the right audience who are most likely 
 * Random Forest
 
 ### Model Evaluation Methods
-* Confusion matrix: the recall and accuracy rate of each model are calculated
+* Confusion matrix: evaluated accuracy and recall across models to compare predictive performance.
